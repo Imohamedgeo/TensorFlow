@@ -1,4 +1,4 @@
-# Dec.02/2020 #
+# Dec.05/2020 #
 
 # What's new in TensorFlow 2.x
 
